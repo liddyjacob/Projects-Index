@@ -11,7 +11,7 @@ A curated list of relevant projects that I have developed.
 # Data Science and Machine Learning
 
 
-| Project Link | Techniques |Tools / Libraries | Project Description | 
+| Project Link | Topics | Tools / Libraries | Project Description | 
 |---|---|---|---|
 | [MetroBeat(working title)](https://github.com/liddyjacob/MetroBeat) | Audio Visualization, Audio Signal Analysis, Machine Learning | Python(librosa, pytorch), Godot | A model built from the ground up to find the beats of a song - created after dissatisfaction with Librosas built in beat.beat\_track function |
 | [Beat the Box](https://github.com/liddyjacob/BeatTheBox) | Statistics, Audio Signal Analysis | Python(docopt, librosa, subprocess), BASH(aplay, input) | A hackathon project that turns beatboxing and cardboard box drumming into signals for MIDI drums |
@@ -22,7 +22,7 @@ Many more data science projects are associated with my career, see my resume [he
 
 # Software Development and Engineering
 
-| Project Link | Techniques |Tools / Libraries | Project Description | 
+| Project Link | Topics | Tools / Libraries | Project Description | 
 |---|---|---|---|
 | [Mongo Proxy Server](https://github.com/liddyjacob/MongoProxy) | Networking, Wire Protocol, API, Database Managment Reverse Engineering | Python(asyncio, bson, functools), mongoDB |  Graduate school class project. Reverse engineered and modified the mongoDB protocol. Project designed to add a new feature to mongoDB: restrict records to specified users, even if said records exist in the same database. |
 | [Mini C](https://github.com/liddyjacob/MiniC/tree/master) | Compilers, Abstract Synatx Trees, Programming Theory, Modular Design | C++14, Cmake | A graduate-level course project about implementing a custom programming language. Implements the MiniC Programming language specified by [Dr. Sutton](http://asutton.github.io/), professor of Compiler Design |
@@ -30,6 +30,10 @@ Many more data science projects are associated with my career, see my resume [he
 
 # Research
 
-| Project Link | Techniques |Tools / Libraries | Project Description | 
+| Project Link | Topics  | Tools / Libraries | Project Description | 
 |---|---|---|---|
+| [OPAN Finder](https://github.com/liddyjacob/OPAN_Finder_Final) | Number Theory, Research, Parallel Processing, Optimization | C++11, CMake, GMP, NTL | Implementation of the algorithms described in my 2019 Research Paper. Optimization and Parallel processing alongside mathematical discovory allowed my algorithm to solve an unsolved problem in mathematics |
+| [Research Paper](https://github.com/liddyjacob/paper) | Number Theory, Research, Technical Writing | LaTeX, Chalk, Chalkboard | An original research paper in number theory that expands on the search for odd [weird numbers](https://en.wikipedia.org/wiki/Weird_number) |
+| [REU Extension of Nauty Tools](https://github.com/liddyjacob/REU_Extend_C/tree/master) | Graph Theory, Low-level coding, Tool building | C, Nauty | Extension of tools avaliable in the [nauty and Traces](https://pallini.di.uniroma1.it/) for Graph Theory research purposes | 
 
+| [REU Python Algorithms](https://github.com/liddyjacob/REU-Critical-Graphs) | Graph Theory, Research, Multi-Language | Python(igraph, itertools) | Algorithms for Graph Theory research associated with the 2018 Rochester Institute of Technology REU program. | 
