@@ -35,5 +35,11 @@ Many more data science projects are associated with my career, see my resume [he
 | [OPAN Finder](https://github.com/liddyjacob/OPAN_Finder_Final) | Number Theory, Research, Parallel Processing, Optimization | C++11, CMake, GMP, NTL | Implementation of the algorithms described in my 2019 Research Paper. Optimization and Parallel processing alongside mathematical discovory allowed my algorithm to solve an unsolved problem in mathematics |
 | [Research Paper](https://github.com/liddyjacob/paper) | Number Theory, Research, Technical Writing | LaTeX, Chalk, Chalkboard | An original research paper in number theory that expands on the search for odd [weird numbers](https://en.wikipedia.org/wiki/Weird_number) |
 | [REU Extension of Nauty Tools](https://github.com/liddyjacob/REU_Extend_C/tree/master) | Graph Theory, Low-level coding, Tool building | C, Nauty | Extension of tools avaliable in the [nauty and Traces](https://pallini.di.uniroma1.it/) for Graph Theory research purposes | 
-
 | [REU Python Algorithms](https://github.com/liddyjacob/REU-Critical-Graphs) | Graph Theory, Research, Multi-Language | Python(igraph, itertools) | Algorithms for Graph Theory research associated with the 2018 Rochester Institute of Technology REU program. | 
+
+# Games and Puzzles
+| Project Link | Topics  | Tools / Libraries | Project Description | 
+|---|---|---|---|
+| [Hive TableTob Game Implementation](https://github.com/liddyjacob/Hive_python) | Object Oriented Programming, Modularity | Base Python + Tkinter | Implementation of the Hive Board game from scratch, including graphics, rule enforcement, game state, end game detection.
+| [Strategy Game AI](https://github.com/liddyjacob/cpypastas) | Object Oriented Programming, AI | Base Python | Implementation of an AI to compete amonst friends in a Age of Empires inspired strategy game. My AI won 1st place, and even won a bonus round when all other competetors teamed up against my AI. |
+| [Parks Puzzle Generator](https://github.com/liddyjacob/Parks) | Logic, Reverse Engineering, Research | C++11 | Automating the generation of puzzles like those found in the app [Parks Seasons](https://play.google.com/store/apps/details?id=com.andreasabbatini.parksseasons&hl=en_US&pli=1). |
